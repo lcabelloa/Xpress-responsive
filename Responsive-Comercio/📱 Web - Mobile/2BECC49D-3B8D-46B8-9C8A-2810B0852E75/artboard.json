@@ -1,0 +1,121 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "43564AB0-A729-440F-9A23-F9F78932DF09",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "2BECC49D-3B8D-46B8-9C8A-2810B0852E75",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A32DCFEF-9849-4283-BC19-36E708D217E4",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "26FEB862-6FCD-4C21-AC8C-1C7CDD6F430C",
+    "height": 703,
+    "width": 320,
+    "x": 928,
+    "y": -1152
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "D3AC33B3-32B1-42EF-83E1-66701FDBDB92",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "0DCDCBEA-9AB4-475C-8048-3229A889ED23"
+    },
+    {
+      "class": "text",
+      "id": "31509549-73EA-4BBA-B404-B373718AED2D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6186C82F-9CE5-41A4-A103-75B4B8F54F7E"
+    },
+    {
+      "class": "text",
+      "id": "0D57539F-C744-459A-9216-A85EFCE40DEB"
+    },
+    {
+      "class": "text",
+      "id": "D51A417D-C77D-40EC-87A3-047C557B8B00"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A5A71D53-17DC-4904-A483-F6AE9BF6D741"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EA55B38F-68B4-4DA0-86CE-F5C9EEE6DD01"
+    }
+  ],
+  "name": "6.5 Reiniciar contrasenia",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 640,
+    "name": "Android",
+    "offersLandscapeVariant": 1,
+    "width": 360
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3D5C4E41-84D3-49C4-A13C-6B7F41FC4635",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "18285385-E985-4914-8EC0-4AA1336683D4",
+    "guides": [
+      520
+    ]
+  }
+}

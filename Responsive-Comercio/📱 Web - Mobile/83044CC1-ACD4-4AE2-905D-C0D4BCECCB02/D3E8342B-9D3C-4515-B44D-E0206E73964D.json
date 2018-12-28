@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "D3E8342B-9D3C-4515-B44D-E0206E73964D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "350DC0FF-7466-43DC-8317-0986AD494DF9",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8CF4ADB0-DB33-431D-8AEF-061AB9755516",
+    "height": 48,
+    "width": 132,
+    "x": 20,
+    "y": 213
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Login/Textbox Copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0B8A4188-BF62-47AF-86BF-52746D84699B",
+      "overrideName": "7D95BAFB-3937-4C0E-B986-1037AACD2482_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FF27F46E-BBFF-4C57-B728-96B0E6C8ADC1",
+      "overrideName": "4D3E7836-C8CE-49D5-9439-D29A8F13742B_textStyle",
+      "value": "B709AF89-361F-46E0-A82C-F08059091A67"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2CA27F16-4806-4E46-8345-FACE54B1BE52",
+      "overrideName": "4D3E7836-C8CE-49D5-9439-D29A8F13742B_stringValue",
+      "value": "Apellido Paterno"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "EAC32F1E-17DE-4930-B88D-D123BF10C3D2",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "8C5E8337-AE19-4AA4-B450-B8650B14B305",
+  "verticalSpacing": 0
+}

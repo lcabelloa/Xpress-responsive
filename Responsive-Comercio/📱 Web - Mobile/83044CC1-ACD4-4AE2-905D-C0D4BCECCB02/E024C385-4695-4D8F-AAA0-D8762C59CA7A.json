@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "E024C385-4695-4D8F-AAA0-D8762C59CA7A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "76A9E470-FB7E-4A2E-9C4D-E9978C76D85E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "62DC0A90-1FB0-4005-A18D-21916CF6E3E4",
+    "height": 40,
+    "width": 280,
+    "x": 20,
+    "y": 661
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Button/",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7C4841D5-6AA3-43DF-AA5C-C4EA9240C49F",
+      "overrideName": "15CA3FD0-40C3-459D-8641-D504ACE3AE56_stringValue",
+      "value": "Registrarse"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "ED4473A2-A5B2-4BDF-B225-158642847A6F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "B69B2D8C-851A-42A8-8CA5-5B9979053B09",
+  "verticalSpacing": 0
+}

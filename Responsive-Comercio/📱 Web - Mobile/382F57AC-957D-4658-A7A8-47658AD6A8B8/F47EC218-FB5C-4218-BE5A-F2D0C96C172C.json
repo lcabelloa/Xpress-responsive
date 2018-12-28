@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "F47EC218-FB5C-4218-BE5A-F2D0C96C172C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2A3A8BA7-465F-4071-9244-E6337CAA04F1",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8C734FD2-4318-4CB3-9C75-0525ADDAD081",
+    "height": 48,
+    "width": 280,
+    "x": 20,
+    "y": 298
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Login/Textbox Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "28F9DF21-19E8-4C50-A749-AD63F7820629",
+      "overrideName": "BF754316-F50C-449F-9E64-54F41B103D09_stringValue",
+      "value": "Camioneta"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9BB0D543-BDAB-418E-BB81-5DF5C86D31EF",
+      "overrideName": "AEFEB86D-0027-45BD-AC30-D5714CA6FBA4_symbolID",
+      "value": "B225B790-1754-46D6-A0D1-58183312C16B"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0DA50FEC-A762-420F-97B1-03EDA1C7F492",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "2C7C3F2D-2238-4ABD-BD17-47179B7F138D",
+  "verticalSpacing": 0
+}

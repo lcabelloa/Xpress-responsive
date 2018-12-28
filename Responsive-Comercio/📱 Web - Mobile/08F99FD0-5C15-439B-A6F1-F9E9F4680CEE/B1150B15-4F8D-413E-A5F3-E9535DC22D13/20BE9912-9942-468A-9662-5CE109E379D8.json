@@ -1,0 +1,86 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "20BE9912-9942-468A-9662-5CE109E379D8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F26DDF01-5F5E-4D6C-A739-6515A7515286",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "871D892F-52C8-4980-8D27-382DD5600994",
+    "height": 40,
+    "width": 280,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Button/",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DBF4ED5C-A01C-467F-8CCB-057FB25A15F7",
+      "overrideName": "9B0954D6-5BA7-4D76-A5C8-1D1F0FB8BFFC_stringValue",
+      "value": "Registrarse con Google"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6AB47791-EF0A-4791-AB9C-714F231655F4",
+      "overrideName": "B3814624-6416-4E0D-8198-D21061ED1D40_layerStyle",
+      "value": "F9C1EF50-3BF8-427E-86F1-27EB9396A51C"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A8B68604-9823-4956-97EA-FDEF04992861",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 8,
+        "color": {
+          "_class": "color",
+          "alpha": 0.24,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": 0,
+        "spread": 0
+      }
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "5FA84A06-F9FD-4826-B33C-3DC50D396E1D",
+  "verticalSpacing": 0
+}

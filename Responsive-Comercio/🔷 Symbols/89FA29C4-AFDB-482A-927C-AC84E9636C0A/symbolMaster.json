@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "ABBD8C92-7006-4F73-8A9C-FA105CF96743",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 2173,
+  "clippingMaskMode": 0,
+  "do_objectID": "89FA29C4-AFDB-482A-927C-AC84E9636C0A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "62E67C3B-F652-4F8F-806E-118EC52B9840",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "04E9F274-94DA-4D54-A08C-FC35725BC987",
+    "height": 40,
+    "width": 50,
+    "x": 2645,
+    "y": -255
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "E64E3168-F960-4717-9FEC-1A6569636191",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "822F4E88-C317-4087-AD08-AE39C29843C1"
+    }
+  ],
+  "name": "ico_route 2",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A939360D-DF1C-47C3-9FB9-CB54E9A41C8B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "D6D8BF08-F1B5-45DB-82FF-6C16C52128A5",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "A4D10F5F-7157-4F50-9259-D522420D0132",
+    "guides": [
+    ]
+  }
+}

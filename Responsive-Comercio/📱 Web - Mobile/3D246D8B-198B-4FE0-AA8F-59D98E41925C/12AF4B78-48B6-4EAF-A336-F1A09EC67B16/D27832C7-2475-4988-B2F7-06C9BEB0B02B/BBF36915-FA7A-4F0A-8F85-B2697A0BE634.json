@@ -1,0 +1,76 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "BBF36915-FA7A-4F0A-8F85-B2697A0BE634",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7CFF82DC-A902-4B34-897F-5D0B577BEB04",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C9C8C3D4-4D39-4B6D-963F-86851A08411C",
+    "height": 72,
+    "width": 72,
+    "x": 104,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Oval-modal",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7CDB3456-2739-403A-88A2-277E5CD7EA24",
+      "overrideName": "92D7F644-3E05-4C8D-ACA3-5D99A41974DF_layerStyle",
+      "value": "2DA957A3-B4C6-4DA3-A0A6-99D5C9578062"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A5C77A87-B0E0-4ACC-BB81-D56323A59053",
+      "overrideName": "8574F25F-C17D-403F-9A35-AE741B8EDE9B_symbolID",
+      "value": "AE30BA3E-E006-43CC-8D7B-66796EEBBB78"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3F50BC27-DCDE-428F-A6C9-1CCA79BB9E0D",
+      "overrideName": "8574F25F-C17D-403F-9A35-AE741B8EDE9B/08C453E8-2EA2-46BD-AD3F-C8FAFED3AD9F_layerStyle",
+      "value": "F9C1EF50-3BF8-427E-86F1-27EB9396A51C"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7DBE395A-0E70-4407-8CE2-307EF202172C",
+      "overrideName": "8574F25F-C17D-403F-9A35-AE741B8EDE9B/99341189-43E0-4925-A10D-AEC42140E7B9_layerStyle",
+      "value": "F9C1EF50-3BF8-427E-86F1-27EB9396A51C"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4031082B-C649-43AD-8AA1-58FBC76ED87C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "D5DBAB8A-96F0-4CBF-B10A-848D21C692D4",
+  "verticalSpacing": 0
+}

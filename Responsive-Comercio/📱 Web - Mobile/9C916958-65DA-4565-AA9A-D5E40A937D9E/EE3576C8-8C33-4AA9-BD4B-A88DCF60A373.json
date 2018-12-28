@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "EE3576C8-8C33-4AA9-BD4B-A88DCF60A373",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7A22EF90-6FD6-49E0-B587-31F6CEF9E17F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "72D16A6A-5088-4751-993D-4C70038CAF43",
+    "height": 48,
+    "width": 280,
+    "x": 20,
+    "y": 269
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Login/Textbox Copy 4",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "40C87229-4923-4CCF-93A4-D6B0FD237BFC",
+      "overrideName": "458444D7-C6BD-4B57-887A-AA3BDAFB364A_stringValue",
+      "value": "DNI"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "79091B7D-5680-4736-B61E-AACFE0C6F481",
+      "overrideName": "458444D7-C6BD-4B57-887A-AA3BDAFB364A_textStyle",
+      "value": "B709AF89-361F-46E0-A82C-F08059091A67"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4951107F-6102-44AE-A53A-80A154519CCB",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "5963CD34-479F-454A-9CEE-CB5AA9DC52A6",
+  "verticalSpacing": 0
+}

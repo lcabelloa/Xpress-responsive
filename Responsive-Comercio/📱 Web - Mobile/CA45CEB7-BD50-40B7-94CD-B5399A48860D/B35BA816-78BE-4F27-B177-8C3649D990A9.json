@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "B35BA816-78BE-4F27-B177-8C3649D990A9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9B9467A2-77C5-4615-B47B-1E00D236E369",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "783320E0-AD3D-4C22-9D2E-2FB9AD425DA9",
+    "height": 48,
+    "width": 280,
+    "x": 20,
+    "y": 301
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Login/Textbox Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "28F9DF21-19E8-4C50-A749-AD63F7820629",
+      "overrideName": "BF754316-F50C-449F-9E64-54F41B103D09_stringValue",
+      "value": "Tipo de vehículo"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9BB0D543-BDAB-418E-BB81-5DF5C86D31EF",
+      "overrideName": "AEFEB86D-0027-45BD-AC30-D5714CA6FBA4_symbolID",
+      "value": "B225B790-1754-46D6-A0D1-58183312C16B"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "BCF1DE1F-911F-42E8-9718-AC8BA52346D7",
+      "overrideName": "BF754316-F50C-449F-9E64-54F41B103D09_textStyle",
+      "value": "B709AF89-361F-46E0-A82C-F08059091A67"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8E93156F-BB38-43A6-AA53-63C6E9226A05",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "2C7C3F2D-2238-4ABD-BD17-47179B7F138D",
+  "verticalSpacing": 0
+}

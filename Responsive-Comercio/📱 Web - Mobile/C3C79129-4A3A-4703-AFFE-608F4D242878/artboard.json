@@ -1,0 +1,124 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "97F8D907-5B63-475A-AD4F-EC4672B84888",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "C3C79129-4A3A-4703-AFFE-608F4D242878",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0F0DABCD-63E6-475A-9A67-4B14AD27847C",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "CF421540-2024-4D4E-90C7-EAD5AC81BCAB",
+    "height": 640,
+    "width": 320,
+    "x": -1308,
+    "y": -1142
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "E5A6E1AB-0649-462E-9C42-68322BF29E99",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "F697B35F-9A5C-4584-BDBA-E7FEC011B5B9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5C5F077D-41B5-4476-AD3C-800670293F07"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "934311C4-334F-427E-AF78-6BF18E5BDFDB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "18157EDC-50BF-4655-AAB7-D30C2E753713"
+    },
+    {
+      "class": "text",
+      "id": "A3B0CE9A-55C7-4C56-BCAC-14180139DE1A"
+    },
+    {
+      "class": "text",
+      "id": "58CD5927-BA2F-47FF-8D6D-B1DB38014F3F"
+    },
+    {
+      "class": "rectangle",
+      "id": "5F621F07-6077-449D-AA2E-675DFB25FC9C"
+    },
+    {
+      "class": "text",
+      "id": "0CA65D90-425B-437C-93E9-FFF6F4B00418"
+    }
+  ],
+  "name": "6.1 Login - Empresa",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Mobile",
+    "offersLandscapeVariant": 1,
+    "width": 320
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E3E30F0B-FB56-472F-B6B9-18DA7F5A749C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "B1530C5B-0E5C-4903-B4CA-3DDDE009FE59",
+    "guides": [
+    ]
+  }
+}

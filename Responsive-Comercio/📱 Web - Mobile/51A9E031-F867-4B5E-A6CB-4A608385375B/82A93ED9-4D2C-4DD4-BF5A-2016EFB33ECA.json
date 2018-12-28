@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "82A93ED9-4D2C-4DD4-BF5A-2016EFB33ECA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "473508FB-5E0E-486C-9102-DBC9A1CF2552",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F67DF52A-9E4A-414C-9026-BAEFA279D8E6",
+    "height": 48,
+    "width": 132,
+    "x": 168,
+    "y": 630
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Login/Textbox short Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A0C126EA-7D19-479B-BAF2-E8E48051BC8E",
+      "overrideName": "4D3E7836-C8CE-49D5-9439-D29A8F13742B_stringValue",
+      "value": "Provincia"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "375158F2-4E4D-4F02-935F-7E1AD1297211",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "8C5E8337-AE19-4AA4-B450-B8650B14B305",
+  "verticalSpacing": 0
+}

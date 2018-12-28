@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "D8D52676-DC63-4B71-BB39-A030EFFCC0AE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "544C4372-7221-4D66-A2B5-CD8111DAF328",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5F0FAEB8-EDD1-4DE1-A7B9-B0AFA923D8DF",
+    "height": 40,
+    "width": 280,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Button/",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "411D89D3-FD7D-49E5-92E3-2DFC78943063",
+      "overrideName": "15CA3FD0-40C3-459D-8641-D504ACE3AE56_stringValue",
+      "value": "Registrarse con Facebook"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3E185C0B-2B3B-40C0-B567-758E170B8CF2",
+      "overrideName": "1AE832A7-8FB2-4FF5-9A51-84ABD5EF9AD6_layerStyle",
+      "value": "6CAF1799-388C-46C6-9829-EA0990F938F6"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "78E0ADBB-1BD0-4C49-92DD-DF7C29C6CAB3",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "B69B2D8C-851A-42A8-8CA5-5B9979053B09",
+  "verticalSpacing": 0
+}

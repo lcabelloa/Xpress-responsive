@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "A44DFA0A-592B-4A17-9924-5FB9021DB71C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "68BED516-EF31-487C-B261-5E28EC75DE17",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E758759F-E84C-4482-90AB-6D312D78CEE2",
+    "height": 48,
+    "width": 280,
+    "x": 20,
+    "y": 517
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Login/Textbox Copy 8",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "28F9DF21-19E8-4C50-A749-AD63F7820629",
+      "overrideName": "BF754316-F50C-449F-9E64-54F41B103D09_stringValue",
+      "value": "Repetir contraseña"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B8066ED9-452D-472D-AF91-F403AEE33A9C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "2C7C3F2D-2238-4ABD-BD17-47179B7F138D",
+  "verticalSpacing": 0
+}

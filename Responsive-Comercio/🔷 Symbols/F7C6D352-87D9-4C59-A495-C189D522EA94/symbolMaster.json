@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "EECC0BAA-A376-4470-B36D-45F5EDD61325",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 967,
+  "clippingMaskMode": 0,
+  "do_objectID": "F7C6D352-87D9-4C59-A495-C189D522EA94",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0F24C625-FEDB-425D-A911-134A1BB79AAE",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2DFFAC72-5FE1-482B-9D6D-CC09EDA5DE4A",
+    "height": 54,
+    "width": 70,
+    "x": 1077,
+    "y": -255
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "22CA7234-368C-4668-9E4E-82568F4C9C54",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "5F020AF2-1E6E-4A73-BDD4-A51FABBBD8E4"
+    }
+  ],
+  "name": "img_carro 2",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "34288BA9-B68F-41A1-8FBE-39E48A3E6FAE",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "45611679-5990-4F7B-9031-B208124C2021",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "484D184F-284F-414F-9AC2-38CAF801B069",
+    "guides": [
+    ]
+  }
+}

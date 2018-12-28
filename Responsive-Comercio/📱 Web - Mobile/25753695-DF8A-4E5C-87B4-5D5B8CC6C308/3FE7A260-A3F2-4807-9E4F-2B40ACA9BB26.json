@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "3FE7A260-A3F2-4807-9E4F-2B40ACA9BB26",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "05CE376C-9205-4DA6-9D1B-4C21917242A6",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2BF89D04-D7CB-433B-AF34-5BC646A798BF",
+    "height": 48,
+    "width": 280,
+    "x": 20,
+    "y": 92
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Wizzard/Step",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "082F6ED6-84F8-451F-8265-5695537FF88B",
+      "overrideName": "7C2010FA-07A8-4A3A-A4F4-71C7DC4D65B7_stringValue",
+      "value": "1"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FA53D974-A5B3-4864-BA76-EFB3E96F4265",
+      "overrideName": "501D25C5-C9F4-4353-99CC-99399818BA96_stringValue",
+      "value": "Datos de paquete"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "17EA7E80-5898-4604-AC2B-205989FCEDE4",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "5533478E-0641-42AA-9B20-2E24CDA3E47E",
+  "verticalSpacing": 0
+}

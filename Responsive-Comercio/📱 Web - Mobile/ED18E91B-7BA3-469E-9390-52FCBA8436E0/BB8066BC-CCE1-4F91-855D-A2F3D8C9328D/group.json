@@ -1,0 +1,89 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "BB8066BC-CCE1-4F91-855D-A2F3D8C9328D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2D10A9C5-A71F-426F-961C-CA1426020AAC",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "00F164AF-89C4-4722-BABB-17F133E7AEEB",
+    "height": 1200,
+    "width": 320,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "D6B5E851-7F53-4FAF-94F3-89F01DDB6573"
+    },
+    {
+      "class": "rectangle",
+      "id": "AB29BB20-CBEB-44BE-8C3A-8D33E4304CF2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5F553ECB-7A3C-40DC-8A57-70ADA67B3110"
+    },
+    {
+      "class": "text",
+      "id": "32A1D4B0-50F9-41A8-977B-265FA8840F0E"
+    },
+    {
+      "class": "text",
+      "id": "A1C57433-E47B-4190-B07F-FCA0B25A1582"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8D9C6EBB-EB43-430C-BBA1-53FBFF5CC43C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1CD2AF04-B906-433C-9F29-44B2C830EAFB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "16C5DCB7-F8EA-4320-A17A-8154C3D6BE89"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "515CCCEB-3AD0-485F-AD91-BA00927DF30B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2A4E4F9D-B2F8-48C8-B8E4-89E1F54B794A"
+    }
+  ],
+  "name": "Modal",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "72D1D348-6D34-4D02-9863-62C521910902",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

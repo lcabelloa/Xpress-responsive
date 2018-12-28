@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "F429D3CF-3564-4FEC-A30F-F37E1C36FD07",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E35F3FF8-C22A-435C-9356-D8AEE45446DD",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5E2605AE-7453-40A1-8C33-939CA24CAF52",
+    "height": 48,
+    "width": 280,
+    "x": 20,
+    "y": 518
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Login/Textbox Copy 10",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "40C87229-4923-4CCF-93A4-D6B0FD237BFC",
+      "overrideName": "458444D7-C6BD-4B57-887A-AA3BDAFB364A_stringValue",
+      "value": "Fecha de nacimiento"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "79091B7D-5680-4736-B61E-AACFE0C6F481",
+      "overrideName": "458444D7-C6BD-4B57-887A-AA3BDAFB364A_textStyle",
+      "value": "B709AF89-361F-46E0-A82C-F08059091A67"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "AA6323AF-59A0-4A73-806A-0A1970A495E9",
+      "overrideName": "F4CA8251-59F7-47AF-B8E0-AAD64A8EE3FB_symbolID",
+      "value": "950BEFB0-95BE-4547-B6D5-3D3C2AFED91A"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0BAAF968-F214-471A-90F0-BDC9CB93B6CA",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "5963CD34-479F-454A-9CEE-CB5AA9DC52A6",
+  "verticalSpacing": 0
+}

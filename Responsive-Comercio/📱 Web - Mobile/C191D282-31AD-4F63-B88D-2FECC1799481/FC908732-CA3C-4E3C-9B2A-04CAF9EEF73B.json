@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "FC908732-CA3C-4E3C-9B2A-04CAF9EEF73B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B9539590-D472-49EC-9A44-15194F79D5BC",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "794763DF-29D0-4A75-9EA6-30C52511E2B0",
+    "height": 48,
+    "width": 280,
+    "x": 20,
+    "y": 306
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Login/Textbox Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "28F9DF21-19E8-4C50-A749-AD63F7820629",
+      "overrideName": "BF754316-F50C-449F-9E64-54F41B103D09_stringValue",
+      "value": "Código de seguimiento"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9BB0D543-BDAB-418E-BB81-5DF5C86D31EF",
+      "overrideName": "AEFEB86D-0027-45BD-AC30-D5714CA6FBA4_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0E7CBFDC-E2E7-49EE-B40B-129BCF2245CA",
+      "overrideName": "BF754316-F50C-449F-9E64-54F41B103D09_textStyle",
+      "value": "B709AF89-361F-46E0-A82C-F08059091A67"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "05FA4D3A-D841-4797-BB34-96F8A0373F6D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "2C7C3F2D-2238-4ABD-BD17-47179B7F138D",
+  "verticalSpacing": 0
+}

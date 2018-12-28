@@ -1,0 +1,116 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "5B625991-6F7F-4BAC-A24C-E1767FF8BAD4",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "08F99FD0-5C15-439B-A6F1-F9E9F4680CEE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "70E55E59-8D69-4D21-8C68-827BD11F14BB",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F88278A9-57DA-4943-8740-85FD7516C1CA",
+    "height": 640,
+    "width": 320,
+    "x": 487,
+    "y": -258
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "381B8487-785A-4B77-AF3A-605F0D653F22",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "B1150B15-4F8D-413E-A5F3-E9535DC22D13"
+    },
+    {
+      "class": "group",
+      "id": "7DDF2EB4-40C7-4AD9-A095-87C143CBB221"
+    },
+    {
+      "class": "text",
+      "id": "FBD95079-F131-4D2D-A6FA-819786A598D0"
+    },
+    {
+      "class": "group",
+      "id": "3BC32A65-D59E-45A2-B4B2-1F305BDF7094"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5B6AC780-6D60-41C1-B56F-B1CEC3FDB412"
+    },
+    {
+      "class": "text",
+      "id": "C7D957D7-60DF-4B92-944F-6CDF4FCCBC6B"
+    }
+  ],
+  "name": "4.5 Registro de Usuario - Opciones",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Mobile",
+    "offersLandscapeVariant": 1,
+    "width": 320
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "84925245-C1CE-48B6-81D4-F159879C4D46",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "06FF2874-BC53-4AA3-B26E-4640C7678CC0",
+    "guides": [
+    ]
+  }
+}

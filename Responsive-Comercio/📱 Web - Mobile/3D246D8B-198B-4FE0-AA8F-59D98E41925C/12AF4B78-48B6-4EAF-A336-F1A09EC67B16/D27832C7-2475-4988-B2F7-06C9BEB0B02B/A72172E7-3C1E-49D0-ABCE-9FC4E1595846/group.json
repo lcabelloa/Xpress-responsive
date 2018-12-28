@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "A72172E7-3C1E-49D0-ABCE-9FC4E1595846",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BB5376CF-F8F0-4DC2-B320-C08918F9C788",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B344594C-10E7-4CE7-96A9-F77EB1DD2063",
+    "height": 206,
+    "width": 280,
+    "x": 0,
+    "y": 231
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "678D773F-6A70-4BA4-8B77-D1497F637D30"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E9A99458-D2AD-4A44-BB6E-001407E9B549"
+    }
+  ],
+  "name": "Mapa",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "16C930AC-1289-41FF-9A4C-7F8F2A43A32A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

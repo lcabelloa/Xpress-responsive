@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "647049BD-041B-41D5-9065-9336D75DB704",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "ED301881-9A36-4E9E-BBAE-40582158244B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4FE81C3D-EAC5-45E9-A2E5-A9D7A7047982",
+    "height": 40,
+    "width": 280,
+    "x": 0,
+    "y": 122
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Button/",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "411D89D3-FD7D-49E5-92E3-2DFC78943063",
+      "overrideName": "15CA3FD0-40C3-459D-8641-D504ACE3AE56_stringValue",
+      "value": "Facebook"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3E185C0B-2B3B-40C0-B567-758E170B8CF2",
+      "overrideName": "1AE832A7-8FB2-4FF5-9A51-84ABD5EF9AD6_layerStyle",
+      "value": "6CAF1799-388C-46C6-9829-EA0990F938F6"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A1DB15CC-E992-4A29-9E77-80012A991044",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "B69B2D8C-851A-42A8-8CA5-5B9979053B09",
+  "verticalSpacing": 0
+}

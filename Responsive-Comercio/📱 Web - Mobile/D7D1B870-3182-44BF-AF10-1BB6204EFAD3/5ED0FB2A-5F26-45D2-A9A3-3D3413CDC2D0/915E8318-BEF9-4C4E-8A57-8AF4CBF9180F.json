@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "915E8318-BEF9-4C4E-8A57-8AF4CBF9180F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "58D747AB-E4F9-4BC5-9D4A-766893B68AB2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7D3DDB39-EE0B-4D53-A371-BE242206D5FE",
+    "height": 40.24721878862789,
+    "width": 240,
+    "x": 40,
+    "y": 373
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Button/",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7C4841D5-6AA3-43DF-AA5C-C4EA9240C49F",
+      "overrideName": "15CA3FD0-40C3-459D-8641-D504ACE3AE56_stringValue",
+      "value": "Guardar"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C0D958D6-D5AB-41F9-A2A4-9ED39CD45FE5",
+      "overrideName": "1AE832A7-8FB2-4FF5-9A51-84ABD5EF9AD6_layerStyle",
+      "value": "0D169E26-6A14-4572-85EF-55C18DC1129E"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3CB447E3-CF54-4809-BF69-1B7E26A9914A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "B69B2D8C-851A-42A8-8CA5-5B9979053B09",
+  "verticalSpacing": 0
+}

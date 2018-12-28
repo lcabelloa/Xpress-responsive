@@ -1,0 +1,120 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "2C334DCA-F78C-400F-9FC3-B837C85951AA",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "BC738B74-605C-4954-ADF5-9FCBE2C2389C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5C5A00E1-C41A-4472-8A5B-8445CBECEDB4",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0D630E34-7611-4FE9-8BDE-D97010594DB7",
+    "height": 640,
+    "width": 320,
+    "x": -574,
+    "y": -258
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "DA44A4D0-077D-4DFF-8BE4-0ED246D59562",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "A664F575-25B5-447D-B4AF-E8AA19B8E317"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0A18094D-6394-499B-8D94-3192E0D53662"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8AD0E81A-252E-49A5-B597-F431579C60C3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "290C2F22-9C94-422F-BD9B-ED57AAC1B4BD"
+    },
+    {
+      "class": "text",
+      "id": "0C9902BD-E176-471C-8A3F-3CEA25C5F828"
+    },
+    {
+      "class": "text",
+      "id": "32001073-B88A-41D9-845E-6BAC4939AC62"
+    },
+    {
+      "class": "text",
+      "id": "AB5FAA54-7E03-4E99-8972-C6FA1455B8FD"
+    }
+  ],
+  "name": "4.2 Login - Uuario Lleno",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Mobile",
+    "offersLandscapeVariant": 1,
+    "width": 320
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2D7A8F92-ED73-4336-A07E-7DB96A17E1F1",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "C32A6B21-4E2A-4F67-8E0D-82F6E36DD027",
+    "guides": [
+    ]
+  }
+}

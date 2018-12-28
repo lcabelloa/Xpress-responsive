@@ -1,0 +1,164 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9647058823529412,
+    "do_objectID": "7463EFEE-2F8C-4CEC-B579-2D14E7FB153B",
+    "green": 0.9490196078431372,
+    "red": 0.9450980392156862
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "ED18E91B-7BA3-469E-9390-52FCBA8436E0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B6E68200-C498-4274-9EAA-86E38AB398E3",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "447B34D1-D63F-444F-A05E-712B53E38B1B",
+    "height": 1200,
+    "width": 320,
+    "x": 3381,
+    "y": 6540
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "6EA659E0-935F-4B1C-A8FC-34C08E342D22",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "A99BEEA8-5A86-4C58-9B5C-D4F542A41E03"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "36ADF2D7-1B09-4324-9DAA-7EC775EF2EF6"
+    },
+    {
+      "class": "group",
+      "id": "987EACBE-2D8A-45EE-8C2E-A2852AD9CA97"
+    },
+    {
+      "class": "rectangle",
+      "id": "632E8CA6-A37C-4AB8-A6C5-D2E5E76EB298"
+    },
+    {
+      "class": "group",
+      "id": "97D70E8B-1E6B-4EF4-97A8-EAED49AEA483"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C8D84D50-E9E1-481F-B660-3C9C9997D06D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DF4E3AE4-5DA7-4BF6-B5EF-68BAAB514334"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "93F337A1-BAE1-4B8E-A90F-05456C1F13D1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1177931A-C57F-4FF5-B22A-8754CBA4B019"
+    },
+    {
+      "class": "group",
+      "id": "7C6EFA87-B178-4C09-BED9-2EA82DF4A48A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3656D532-D37C-4E36-9693-801ACBAA2392"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E6F63D95-DB05-46E7-A09A-C14A5D3DC377"
+    },
+    {
+      "class": "text",
+      "id": "0A5F4BDF-348F-4643-BC59-2B7E41031355"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3FF07708-9B67-41CD-9D8B-3E964CEB0ACE"
+    },
+    {
+      "class": "group",
+      "id": "D7D59C77-0EE7-42AF-B5B2-D28A8BD47F3D"
+    },
+    {
+      "class": "group",
+      "id": "0BA59E85-22D5-42A5-B051-B10D1DB78A53"
+    },
+    {
+      "class": "group",
+      "id": "D1447AEA-90C4-4889-9CE9-F146F86352A0"
+    },
+    {
+      "class": "group",
+      "id": "BB8066BC-CCE1-4F91-855D-A2F3D8C9328D"
+    }
+  ],
+  "name": "2.8 Nuevo pedido - Xpress - Datos del pago - agregar tarjeta - guardar",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Mobile",
+    "offersLandscapeVariant": 1,
+    "width": 320
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D75DF9A2-E404-429F-BFAB-76AC490E241F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "24C44C4B-B688-4A84-AD49-5AD00EDFD596",
+    "guides": [
+    ]
+  }
+}

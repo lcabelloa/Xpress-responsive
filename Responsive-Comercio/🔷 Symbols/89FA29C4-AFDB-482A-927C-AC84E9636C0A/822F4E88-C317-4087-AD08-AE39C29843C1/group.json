@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "822F4E88-C317-4087-AD08-AE39C29843C1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "672BE2B9-400D-4D8D-B9A7-2F3623025239",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "DBF22D1F-E3D6-40D5-8662-8492DFC5D1A3",
+    "height": 39,
+    "width": 48,
+    "x": 1,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "92A7C44F-EE3B-4C57-9C98-88F1169875AA"
+    },
+    {
+      "class": "oval",
+      "id": "6CA97DC6-98C3-422A-8F14-015BC0E4B9BB"
+    },
+    {
+      "class": "shapePath",
+      "id": "F65A296A-F072-4178-8EAB-0865C9A941C7"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "562A6F63-8EE1-4606-BA5A-6C372DDC1F04"
+    }
+  ],
+  "name": "ico_route_2",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F1B70911-60AF-4ED8-A36D-A170A8640200",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

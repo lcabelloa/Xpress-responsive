@@ -1,0 +1,76 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "D5D99D74-E58D-4BEC-9BA2-4C8F3F7E25B3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0DCCFEAB-5497-4578-954A-E3425CA4EEC2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "12627BAB-F270-4E84-AAD9-FC5FB5A5A6CF",
+    "height": 154,
+    "width": 304,
+    "x": 8,
+    "y": 227
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Orden",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5869AD42-335E-410E-9675-5797DDD5DBD1",
+      "overrideName": "60D384B9-E169-498A-9E15-074CFC324F82_stringValue",
+      "value": "PENDIENTE"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CAA68137-DB65-4731-835D-11335658AA29",
+      "overrideName": "C63A3227-4F0B-444E-8B41-8551B145C4EF_stringValue",
+      "value": "01/08/2018"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9E4A3032-90BC-4AF4-BF48-1C32C6330B3C",
+      "overrideName": "407B1164-7897-4D96-8A11-9D4583B051EA_stringValue",
+      "value": "MONTO S/.56.06"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B0579AD2-881B-40A8-8F4A-92DB8267A223",
+      "overrideName": "2C689C06-2203-45FF-A855-4B3DFE4FC5E3_stringValue",
+      "value": "1824080900003"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4A2184F4-CF15-4C35-81DE-0A68162B0744",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "32A51702-EB7F-468C-AD12-8A16FC02264B",
+  "verticalSpacing": 0
+}

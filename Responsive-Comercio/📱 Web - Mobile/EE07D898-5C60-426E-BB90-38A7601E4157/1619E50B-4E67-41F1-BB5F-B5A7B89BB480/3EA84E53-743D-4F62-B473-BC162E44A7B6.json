@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "3EA84E53-743D-4F62-B473-BC162E44A7B6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4770C962-5213-4A74-998F-723921F1F696",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C613C14C-535B-47BF-8107-8E3F193B8277",
+    "height": 40,
+    "width": 160,
+    "x": 20,
+    "y": 16
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Login/Textbox Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "AAB4D656-BF2D-4EC2-88C7-4CE8621C787C",
+      "overrideName": "E59B169F-D2C1-4C9F-81C9-F9480717D3B9_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5C9751E8-EAC3-48E3-BA2B-06F3D42EF334",
+      "overrideName": "71F77829-E6CD-466B-B91A-39EF3BEC874F_textStyle",
+      "value": "B709AF89-361F-46E0-A82C-F08059091A67"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E08DEE8D-5C29-494F-88D5-3E01F36C13A6",
+      "overrideName": "71F77829-E6CD-466B-B91A-39EF3BEC874F_stringValue",
+      "value": "Cupón promocional"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C74236EB-597A-42AC-92D3-525C4731B5B9",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "06B68B69-B111-400F-AD63-AD2BD6072629",
+  "verticalSpacing": 0
+}

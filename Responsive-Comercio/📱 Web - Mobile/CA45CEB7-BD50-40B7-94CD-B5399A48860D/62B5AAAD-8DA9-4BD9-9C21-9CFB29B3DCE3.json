@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "62B5AAAD-8DA9-4BD9-9C21-9CFB29B3DCE3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "CB5CABEE-AB49-4CE8-9E71-8D5CAF35B84C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "AE276CA2-A437-4743-95BF-88243C44EF18",
+    "height": 48,
+    "width": 280,
+    "x": 20,
+    "y": 357
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Login/Textbox Copy 4",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "40C87229-4923-4CCF-93A4-D6B0FD237BFC",
+      "overrideName": "458444D7-C6BD-4B57-887A-AA3BDAFB364A_stringValue",
+      "value": "Marca"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D560D94E-FA71-496F-B156-FCD5754871D3",
+      "overrideName": "458444D7-C6BD-4B57-887A-AA3BDAFB364A_textStyle",
+      "value": "B709AF89-361F-46E0-A82C-F08059091A67"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "88969279-597D-48B0-A0D9-2A420063A38B",
+      "overrideName": "F4CA8251-59F7-47AF-B8E0-AAD64A8EE3FB_symbolID",
+      "value": ""
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FBEA894B-C491-4E1E-A129-B72F7890835F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "5963CD34-479F-454A-9CEE-CB5AA9DC52A6",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,117 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "F633B0A2-5ABB-4A9A-97D4-90460D471A31",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "092AA35D-A87F-43AD-8571-708DBCCDAC36",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4035485D-5533-48FE-9A22-0E7DABC965B5",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "59F9B3C5-7B04-4750-91FE-21D5126ED9D3",
+    "height": 703,
+    "width": 320,
+    "x": -591,
+    "y": -1152
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "B33B1687-DE08-4C0A-9DEC-26A92DBFB9A9",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "0A81065C-131C-4A11-A0E4-9DA96578C124"
+    },
+    {
+      "class": "text",
+      "id": "5D60F92C-4465-4E8D-B53F-A90C43C67083"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4EC96513-C479-45E8-A31D-748B53D6AAF0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FD088C7D-5ADC-4C52-A0EA-1A427ABA12B3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4126F01A-3E53-4C69-9C97-156E03D5D8F7"
+    },
+    {
+      "class": "text",
+      "id": "44DCDB18-36CA-405B-8651-5152ACB0D56E"
+    }
+  ],
+  "name": "6.1 Olvide contrasenia",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 640,
+    "name": "Android",
+    "offersLandscapeVariant": 1,
+    "width": 360
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "BBAC0BEC-157B-408F-85FA-9E8E5C57D1BC",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "B9553224-D052-4304-90FD-9A40A948682E",
+    "guides": [
+      520
+    ]
+  }
+}

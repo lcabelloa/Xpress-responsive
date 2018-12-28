@@ -1,0 +1,62 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "A11B07D5-F6A7-4385-BFD5-12B25E7D4F71",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 39,
+    "width": 285,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "4BDA9E74-3609-43B1-8B00-A0936847B810"
+    },
+    {
+      "class": "text",
+      "id": "D534C280-87E4-4486-AEFF-074C5805CB0F"
+    },
+    {
+      "class": "text",
+      "id": "8C79E092-DDFE-46E1-982A-028F6A0A45C6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "AC0540BE-2ED4-4230-A77A-6A69FFF6E5E4"
+    }
+  ],
+  "name": "Tipos de servicio",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

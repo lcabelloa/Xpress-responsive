@@ -1,0 +1,160 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9647058823529412,
+    "do_objectID": "2B3B4B04-71F3-4C77-A9D3-BCA533D56E99",
+    "green": 0.9490196078431372,
+    "red": 0.9450980392156862
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "E60FF4F6-6791-47FE-B234-6BCF9AEECD61",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BE26200F-F0EB-4A09-ABF3-C19D633CEE43",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "AF2AC362-FF76-4FFB-9365-1939F9ED486C",
+    "height": 1166,
+    "width": 320,
+    "x": 2313,
+    "y": 6540
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "D3A0B878-F9CC-46F6-BB96-AC8A90265E7E",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "7A1A41A0-3A21-4A2A-913B-B52C16976733"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2DA11C31-7E54-4CF5-B3E6-1E5B1E0BAE8A"
+    },
+    {
+      "class": "group",
+      "id": "FD3D6A1C-B713-43C5-BABF-89C5682A7BAB"
+    },
+    {
+      "class": "group",
+      "id": "EA52FBAC-D643-41D3-94B5-39D61106B3C1"
+    },
+    {
+      "class": "rectangle",
+      "id": "DBE92E49-6F86-42C9-A8D6-EB55BC39B94A"
+    },
+    {
+      "class": "group",
+      "id": "8CD96166-247D-4720-B851-CE58FB242D2D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D9FF33AB-0E7D-4529-8078-A862CFF96A40"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C1B7A580-4FFD-462B-9720-F6D001721A62"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "AB0E78AC-BC15-4A2E-9C98-D91630D79480"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C3803A20-0573-451F-B2CB-B9832E2E79A7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "39529BD5-7864-445E-A41B-253D38667A72"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F55DB3EF-D79B-4E73-A5E3-A83B3E349B14"
+    },
+    {
+      "class": "text",
+      "id": "2F6B0363-B9D8-462E-86B9-6CD348C3E2AE"
+    },
+    {
+      "class": "group",
+      "id": "6BB5E469-9E20-48F5-B46C-F827B7411C58"
+    },
+    {
+      "class": "group",
+      "id": "FD131780-470E-43D2-9B34-29FEE599C966"
+    },
+    {
+      "class": "group",
+      "id": "210999D6-DA14-499C-B2D7-6042E93D8265"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A7B5D33A-BD1E-49FE-9E56-EE35DE022EAF"
+    }
+  ],
+  "name": "2.5 Nuevo pedido - Xpress - Factura",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Mobile",
+    "offersLandscapeVariant": 1,
+    "width": 320
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8F35EBB0-A04F-4541-916C-2A01EA589141",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "BE4E945B-7616-4BAA-A006-403EB45762D9",
+    "guides": [
+    ]
+  }
+}

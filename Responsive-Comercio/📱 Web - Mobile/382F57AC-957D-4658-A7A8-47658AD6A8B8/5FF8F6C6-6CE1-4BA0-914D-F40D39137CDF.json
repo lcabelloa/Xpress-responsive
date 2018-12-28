@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "5FF8F6C6-6CE1-4BA0-914D-F40D39137CDF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3A362F97-43AF-4769-81DD-CF1FC36F75AD",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2A59998A-0D6F-4EFB-A03E-BA15777EB764",
+    "height": 48,
+    "width": 280,
+    "x": 20,
+    "y": 354
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Login/Textbox Copy 4",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "40C87229-4923-4CCF-93A4-D6B0FD237BFC",
+      "overrideName": "458444D7-C6BD-4B57-887A-AA3BDAFB364A_stringValue",
+      "value": "Toyota"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "88969279-597D-48B0-A0D9-2A420063A38B",
+      "overrideName": "F4CA8251-59F7-47AF-B8E0-AAD64A8EE3FB_symbolID",
+      "value": ""
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E8634C04-6FBA-4B02-A7F6-B5F920ADF71E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "5963CD34-479F-454A-9CEE-CB5AA9DC52A6",
+  "verticalSpacing": 0
+}

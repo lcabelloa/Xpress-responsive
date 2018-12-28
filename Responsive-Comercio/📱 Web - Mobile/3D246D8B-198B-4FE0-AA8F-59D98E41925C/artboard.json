@@ -1,0 +1,148 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9647058823529412,
+    "do_objectID": "F25B8534-87C8-486A-BB99-096FF4D00006",
+    "green": 0.9490196078431372,
+    "red": 0.9450980392156862
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "3D246D8B-198B-4FE0-AA8F-59D98E41925C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E4C3D737-F926-46AE-8B88-9F4EE8472108",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FC2E6ED1-3860-4FE7-B142-78D32074E10F",
+    "height": 640,
+    "width": 320,
+    "x": 1188,
+    "y": 4952
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "7BA80E53-2947-4E55-9D6A-EF12D2B01559",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "492A5A99-5070-4184-BAC4-9968D69BA541"
+    },
+    {
+      "class": "rectangle",
+      "id": "DEC15045-ED93-40AE-BA0C-943F08B54A97"
+    },
+    {
+      "class": "group",
+      "id": "9E4E6FB7-7115-427D-A6F9-FB737726B646"
+    },
+    {
+      "class": "text",
+      "id": "4545942D-BAFD-47B4-A129-D9A0ABD558AC"
+    },
+    {
+      "class": "text",
+      "id": "EDCEC77B-0AF2-4C15-B889-849A1B353214"
+    },
+    {
+      "class": "text",
+      "id": "20A75221-EFC2-4CDE-A304-AC538CCF95D8"
+    },
+    {
+      "class": "text",
+      "id": "7CF0B6E3-D756-45C7-B1F7-A819D364A25D"
+    },
+    {
+      "class": "rectangle",
+      "id": "28843CD5-6B1A-44C9-9B78-2FA27F5B1A4B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FC1EA5B8-D371-438B-833F-50BCF505B420"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "86C9DDD5-2EEE-4205-A802-66E0ADD4AB23"
+    },
+    {
+      "class": "group",
+      "id": "94449726-CA55-4F41-BB48-CCD91CE20D88"
+    },
+    {
+      "class": "group",
+      "id": "BC566580-EC11-4ABB-BB6E-29F95F8BA677"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F3B83B4C-9498-4C67-9BF1-6DC5D822042B"
+    },
+    {
+      "class": "group",
+      "id": "12AF4B78-48B6-4EAF-A336-F1A09EC67B16"
+    }
+  ],
+  "name": "1.6 Nuevo pedido_ mapa",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Mobile",
+    "offersLandscapeVariant": 1,
+    "width": 320
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "893868BC-0497-4910-9F5C-648F7642BDEF",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "CEAA892E-4B91-4DD7-A381-9D7D55EA69DB",
+    "guides": [
+    ]
+  }
+}

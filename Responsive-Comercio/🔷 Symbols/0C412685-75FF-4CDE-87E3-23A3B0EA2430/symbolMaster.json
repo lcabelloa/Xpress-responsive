@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "FCEC80E7-07BC-457C-A8B2-CD7FFBC56731",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 1085,
+  "clippingMaskMode": 0,
+  "do_objectID": "0C412685-75FF-4CDE-87E3-23A3B0EA2430",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D28A6BFA-BE08-42E5-92FD-C30E153D4C39",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "72129883-7695-44E1-9960-F43B89790684",
+    "height": 40,
+    "width": 132,
+    "x": 757,
+    "y": -107
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "9CED890E-817B-4ED5-A45B-850DE9EBD3E4",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "E2CE2A5D-7842-479E-8C3D-240EA03334E1"
+    }
+  ],
+  "name": "Form/Textbox short v2",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4D35BE3D-59BF-498E-A115-2DCD4FF14AB6",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "06B68B69-B111-400F-AD63-AD2BD6072629",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "A8F300E3-1E58-4725-BB8E-E7BC823C5E73",
+    "guides": [
+    ]
+  }
+}

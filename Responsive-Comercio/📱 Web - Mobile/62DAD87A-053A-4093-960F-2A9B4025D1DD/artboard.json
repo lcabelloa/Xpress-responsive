@@ -1,0 +1,128 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "CE5318DA-EBEF-44F5-80CA-081F6BBCD76F",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "62DAD87A-053A-4093-960F-2A9B4025D1DD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FDEB8AF2-57D2-4C37-856E-066267A20A21",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "AB7B2C16-F0D5-4ED9-A7A1-403C5426E04C",
+    "height": 650,
+    "width": 320,
+    "x": 552,
+    "y": -1152
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "5CFF7DD4-E317-4F88-8F46-33A1879282E4",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "930F7A2C-943D-48BA-B6A9-996481FF0DD9"
+    },
+    {
+      "class": "rectangle",
+      "id": "AFF20D58-4A49-4E82-A4D7-696F169AFB74"
+    },
+    {
+      "class": "bitmap",
+      "id": "B97B0A9C-0C12-417C-AEE6-5EA96A7E05B7"
+    },
+    {
+      "class": "rectangle",
+      "id": "208DBED0-8711-49C7-94A2-C5DEF40DC3E0"
+    },
+    {
+      "class": "group",
+      "id": "BFF6C619-B34D-4982-985F-4D25B96E60AD"
+    },
+    {
+      "class": "text",
+      "id": "70D98A06-9602-449D-87BF-0C2A0609F683"
+    },
+    {
+      "class": "bitmap",
+      "id": "125F33D4-F183-409B-94CE-FF3AE721301E"
+    },
+    {
+      "class": "group",
+      "id": "DB332D38-E13C-411E-8EEE-631F5435D87C"
+    },
+    {
+      "class": "group",
+      "id": "6C01A60F-6071-4FD5-8264-48816F319187"
+    }
+  ],
+  "name": "6.4 Correo restablecer contrasenia",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 640,
+    "name": "Android",
+    "offersLandscapeVariant": 1,
+    "width": 360
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "85143D96-C78C-4552-A1A2-0CC6B061B44F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "0232D2C4-28A9-40D6-A086-CD7877D9ED08",
+    "guides": [
+    ]
+  }
+}

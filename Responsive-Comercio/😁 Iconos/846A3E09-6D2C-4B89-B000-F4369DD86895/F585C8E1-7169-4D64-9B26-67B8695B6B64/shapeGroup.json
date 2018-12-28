@@ -1,0 +1,109 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "F585C8E1-7169-4D64-9B26-67B8695B6B64",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "354B19DA-906A-4A0F-8D73-6A339698D835",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "952FD82E-9A00-48B6-A956-0B03F2C1A944",
+    "height": 135.807285106383,
+    "width": 135.807285106383,
+    "x": 4,
+    "y": 4
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "A1E85F14-2850-4F97-9C6A-20D16CDADE55"
+    },
+    {
+      "class": "shapePath",
+      "id": "2EBCE0B1-516D-44F8-8A2B-865D44015963"
+    },
+    {
+      "class": "shapePath",
+      "id": "2587AF66-1897-4C77-B893-D260D5C1841F"
+    },
+    {
+      "class": "shapePath",
+      "id": "DABC6D10-C3F1-4C51-9FAB-DC99B4B86F58"
+    },
+    {
+      "class": "shapePath",
+      "id": "C63402B3-7957-4FFA-94DF-A19AF5CF4B06"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D08D7B0E-CD88-4DA2-A337-C13D55421BB5"
+    }
+  ],
+  "name": "Mask",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "sharedStyleID": "717700E3-BE9C-477D-B306-D9D80191D9AB",
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.592,
+          "green": 0.592,
+          "red": 0.592
+        },
+        "fillType": 0,
+        "isEnabled": false,
+        "position": 1,
+        "thickness": 1
+      }
+    ],
+    "do_objectID": "F3C965CA-C910-448D-B1CD-233572675FE7",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 0.34,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "windingRule": 1
+}

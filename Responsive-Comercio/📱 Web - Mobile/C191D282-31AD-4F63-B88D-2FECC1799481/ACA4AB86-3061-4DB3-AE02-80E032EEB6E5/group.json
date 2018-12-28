@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "ACA4AB86-3061-4DB3-AE02-80E032EEB6E5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A1AAD32E-F147-435F-AAA5-D13E57F85006",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2CC5208A-CA0B-433F-809B-065733F1F388",
+    "height": 572,
+    "width": 583,
+    "x": -132,
+    "y": 68
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "7E912B21-F414-42EB-B6CF-EB1684FA911D"
+    },
+    {
+      "class": "bitmap",
+      "id": "D3CC53FD-47B6-4D07-8CB2-7FE9E1FD6787"
+    },
+    {
+      "class": "rectangle",
+      "id": "9A9CCAD7-8618-4834-B761-7BFC2A11DAA8"
+    }
+  ],
+  "name": "1.1 Login - Uuario",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5845D279-6992-4A61-8244-6DF97FD2885C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "440A6773-32F3-433C-9262-60F1899A55F0",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "6FBF9682-0F42-43D8-9A82-B55933ED822F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3156BF3D-F63E-4618-B6B2-0E8B91D96C66",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A3B29660-AEC1-4DBD-8D14-682503D805E4",
+    "height": 640,
+    "width": 320,
+    "x": -136,
+    "y": 6538
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "F8CBCA10-3EAE-4BD9-BBC0-06D57832FCC4",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "12407434-B1B7-4AAC-9491-3BAF71D76161"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "216D49DB-2B4E-4CC8-81A7-00FE13C6BF45"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2D96F8C9-7A19-4E40-8BF8-DFEAF6477038"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1EA42F90-1E1E-4B59-A892-50AE612BE552"
+    },
+    {
+      "class": "text",
+      "id": "668A170B-E69D-4429-B6CE-40CB3D959A23"
+    },
+    {
+      "class": "text",
+      "id": "30F343D3-1022-499A-97A2-2BBB287F3F4F"
+    },
+    {
+      "class": "text",
+      "id": "7950A8F0-305A-451B-A766-479E96867F7A"
+    }
+  ],
+  "name": "2.3.1 Login - Usuario",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Mobile",
+    "offersLandscapeVariant": 1,
+    "width": 320
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5B8B4CFF-406A-440F-B722-DABF7B8D8678",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "CBF92188-6DCB-4DBF-B31C-275D6DA89FFF",
+    "guides": [
+    ]
+  }
+}

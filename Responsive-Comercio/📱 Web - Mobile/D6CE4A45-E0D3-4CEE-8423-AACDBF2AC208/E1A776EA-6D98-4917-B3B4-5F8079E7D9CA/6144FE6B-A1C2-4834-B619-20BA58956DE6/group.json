@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "6144FE6B-A1C2-4834-B619-20BA58956DE6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8F587D22-43B9-45D2-9BAD-42C93C24F597",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "EB0CC73A-FFF8-4EED-8A2B-E8FA69721EC5",
+    "height": 30,
+    "width": 130,
+    "x": 0,
+    "y": 36
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "96D9C37F-CC71-4645-96B4-97D4D02001F9"
+    },
+    {
+      "class": "text",
+      "id": "81963FF2-53AF-4DF9-83A9-E17687CFB249"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F7A41612-347B-4F63-89DD-992DA7B1143F"
+    }
+  ],
+  "name": "Filtro 1",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3C9B31EE-822A-44D2-B3AB-EBBEAD716D87",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

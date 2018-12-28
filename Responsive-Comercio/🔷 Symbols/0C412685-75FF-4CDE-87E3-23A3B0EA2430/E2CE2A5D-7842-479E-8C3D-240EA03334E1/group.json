@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "E2CE2A5D-7842-479E-8C3D-240EA03334E1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C3B52927-06A4-41B1-991B-E5C74A03D018",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "DF9C8D4A-C735-4D2F-80FF-E47E88B4E02A",
+    "height": 40,
+    "width": 133,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "6423C8F6-2433-4E36-98AA-601F43B45163"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E59B169F-D2C1-4C9F-81C9-F9480717D3B9"
+    },
+    {
+      "class": "text",
+      "id": "71F77829-E6CD-466B-B91A-39EF3BEC874F"
+    }
+  ],
+  "name": "Login/Textbox short",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1A965F12-6205-4FF7-922A-E2096D7CA0EB",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

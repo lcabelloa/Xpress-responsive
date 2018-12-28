@@ -1,0 +1,92 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "41AEC93A-7938-4E64-AD44-B3C34A1B03ED",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 15311,
+  "clippingMaskMode": 0,
+  "do_objectID": "5A91B7C3-DBCD-47B4-B3D1-AB4BAE31A5B1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DCA657EA-7D66-4FD7-B86D-74F5CC9BB28E",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "23A78F9C-AB66-47F7-8666-C8C7A493E66C",
+    "height": 144,
+    "width": 144,
+    "x": 8695,
+    "y": -4062
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "EAFEFA6D-2400-4E83-970E-935CDC7C5418",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "E198ABA8-8F2F-4603-9889-AAA638F19A35"
+    }
+  ],
+  "name": "Icons/Line/Actions/Repeat",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7A6BD246-A1C5-41DC-AE42-C6B0AD6FB040",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "2A242840-F4E1-41A1-9B94-48155F4322D5",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "576C2B6D-54A3-43D9-BB9E-B248C213243F",
+    "guides": [
+    ]
+  }
+}

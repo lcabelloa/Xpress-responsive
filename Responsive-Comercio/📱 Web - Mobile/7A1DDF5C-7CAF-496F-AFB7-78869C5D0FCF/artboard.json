@@ -1,0 +1,116 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "0BEC1A7D-9783-422F-8BE7-575E83869A2D",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "7A1DDF5C-7CAF-496F-AFB7-78869C5D0FCF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "42DC4A28-1D79-462E-B2D7-B95BE17A927D",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B0BEE6D6-CE46-42C2-B791-991D053B616E",
+    "height": 640,
+    "width": 320,
+    "x": 141,
+    "y": -258
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "E228C260-745D-4661-A8F9-A9E835F2DEA5",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "C56923B2-3D23-4947-A65F-6F6AD3C99CCC"
+    },
+    {
+      "class": "text",
+      "id": "E8037F50-DBEF-462E-A39F-88E29427B037"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6D2FE4BA-2B77-44CD-82E8-9DDD277F947A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "252A0F82-48C7-4264-8E59-92005708B09B"
+    },
+    {
+      "class": "text",
+      "id": "7BEA668C-EE82-456E-8D1F-A2B8C832B62C"
+    },
+    {
+      "class": "group",
+      "id": "806415D7-AFCA-4F5B-886A-595231D668D5"
+    }
+  ],
+  "name": "4.4 Login - Password Lleno",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Mobile",
+    "offersLandscapeVariant": 1,
+    "width": 320
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F135A5F5-7DDD-443C-AE22-CCFC5A714E21",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "597A0712-0EF8-45A0-BAAA-B1E3E0F5A039",
+    "guides": [
+    ]
+  }
+}

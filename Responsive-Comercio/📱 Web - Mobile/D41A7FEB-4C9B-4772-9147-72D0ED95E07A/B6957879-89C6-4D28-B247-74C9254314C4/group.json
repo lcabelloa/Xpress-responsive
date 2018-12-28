@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "B6957879-89C6-4D28-B247-74C9254314C4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "42977F37-C0F5-4752-9D61-556DEA76A303",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "D472005A-611E-4E87-B0F0-631AED8571F3",
+    "height": 30,
+    "width": 30,
+    "x": 16,
+    "y": 485
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "oval",
+      "id": "9D8763D0-CA37-4746-B4F0-704E5F96C746"
+    },
+    {
+      "class": "bitmap",
+      "id": "4F29E515-DE16-44BB-BD71-922D46D52F79"
+    }
+  ],
+  "name": "Userpic",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6434A0B1-F67E-4E9D-9625-58087C87DAD5",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

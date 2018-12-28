@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "A9A5409C-376D-47DD-81E1-3D6749100585",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7855FBAD-8AB8-4D10-BBED-901CEE8C722A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "89B729C1-B90B-447B-8F33-3426ADCC2BC9",
+    "height": 48,
+    "width": 280,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "708CE964-7159-46E5-BB17-5F011D5C570D"
+    },
+    {
+      "class": "rectangle",
+      "id": "3F33A617-EAB2-4F9C-85D9-34D1B9FC6F5B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "03BDCDF2-30E4-4599-B45E-F1CE80615086"
+    },
+    {
+      "class": "text",
+      "id": "C1486B76-218D-4949-8C86-31953FDB66CA"
+    }
+  ],
+  "name": "Foto subida",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "99C7113C-04C3-407C-B449-CD25B251860D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,164 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9647058823529412,
+    "do_objectID": "4F93A4C5-1D10-4601-A1D1-1036E1A7BE63",
+    "green": 0.9490196078431372,
+    "red": 0.9450980392156862
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "D7D1B870-3182-44BF-AF10-1BB6204EFAD3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F1D26ABF-FA8B-426E-823B-9CC82DF2B0BF",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F742B2B7-2C6D-4E92-BC8F-A75C921428A4",
+    "height": 1200,
+    "width": 320,
+    "x": 3025,
+    "y": 6540
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "509ECDF7-C82E-4CC2-8648-C0B6F92BB1E4",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "9FFB89C5-2955-48AC-9F25-242B92EB149A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1AFE0D70-D4B6-4378-8805-8DB7A595CE0D"
+    },
+    {
+      "class": "group",
+      "id": "69342FB0-B07F-499A-ADCB-69D47C693B34"
+    },
+    {
+      "class": "rectangle",
+      "id": "997DEE25-C516-4B7E-B086-43FBEB3CA327"
+    },
+    {
+      "class": "group",
+      "id": "B8385D1B-E35D-4374-A083-6605E4D956BB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "82D20E73-C917-4898-BC79-50D740DC8D32"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5145BEE5-54A8-4917-8E8E-C21FBCF97040"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BB183BF2-9997-4400-9B0C-7A041B60D224"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9D84D87F-0754-4C07-97FF-00C862BD7650"
+    },
+    {
+      "class": "group",
+      "id": "D93A8BC6-B591-4B77-B2FB-F46D85C48B68"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5A8295A9-90E1-42D8-9A8D-8E1685190349"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CC4D16DA-7EC2-44E9-AFBD-FE8701F8D873"
+    },
+    {
+      "class": "text",
+      "id": "13E40116-5EB6-4803-8AF4-3650A7295050"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0BA7233B-FAF0-4FD3-B8DB-E169B20A78CD"
+    },
+    {
+      "class": "group",
+      "id": "AAB34E80-76C5-4EB3-8C32-EF1DE8FE3815"
+    },
+    {
+      "class": "group",
+      "id": "0EA43353-11C4-43F6-8DD0-871C02462FF1"
+    },
+    {
+      "class": "group",
+      "id": "88B3F820-C9DA-45A9-97B6-F50E407BCCE2"
+    },
+    {
+      "class": "group",
+      "id": "5ED0FB2A-5F26-45D2-A9A3-3D3413CDC2D0"
+    }
+  ],
+  "name": "2.7 Nuevo pedido - Xpress - Datos del pago - Agregar Tarjeta",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Mobile",
+    "offersLandscapeVariant": 1,
+    "width": 320
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9036A523-8F89-4AA8-8C6D-AA34F1ACAC6D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "A9E350BD-9FD7-43F5-8D3B-75E0136DCBE9",
+    "guides": [
+    ]
+  }
+}

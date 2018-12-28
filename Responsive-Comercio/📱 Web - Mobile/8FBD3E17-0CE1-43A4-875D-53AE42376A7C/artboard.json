@@ -1,0 +1,114 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "8FBD3E17-0CE1-43A4-875D-53AE42376A7C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 640,
+    "width": 320,
+    "x": -950,
+    "y": -258
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "D1FA8CFE-5B41-4E5B-9DF0-0811CA640BB4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3CE5673D-9106-495E-8F2B-978F88EFDE90"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E92250CE-BF83-44D0-B55C-FE3534F15FD1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7ED5CDE6-4834-487A-B54B-6F76C48F2F7C"
+    },
+    {
+      "class": "text",
+      "id": "76F5FBDD-DC96-4C6E-B0E8-F778DF09C092"
+    },
+    {
+      "class": "text",
+      "id": "D7F4831B-249C-4D30-80F1-B562D19382DC"
+    },
+    {
+      "class": "text",
+      "id": "DA3E5CD0-51DD-4C72-A8F2-C0BDE412053D"
+    }
+  ],
+  "name": "4.1 Login - Uuario",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Mobile",
+    "offersLandscapeVariant": 1,
+    "width": 320
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

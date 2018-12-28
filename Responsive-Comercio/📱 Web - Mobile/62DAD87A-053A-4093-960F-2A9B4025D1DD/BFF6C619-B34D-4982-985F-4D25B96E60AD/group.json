@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "BFF6C619-B34D-4982-985F-4D25B96E60AD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "565BA92E-6B87-4B20-8665-8ED8DEC864EF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7D1B3B40-7011-4E05-B8B9-005DDDD0F916",
+    "height": 31,
+    "width": 139,
+    "x": 58,
+    "y": 130
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "06B0F1E9-2E7F-4AA5-BE06-5FDC1BFB8523"
+    },
+    {
+      "class": "text",
+      "id": "92A13138-B5F7-4B9A-A7EC-5BE67EC4DA99"
+    }
+  ],
+  "name": "tittle_sedapal",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "BE9E4EB2-A8E8-42B1-8DA0-39FC89080397",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "19D4E662-A1F1-4FBE-B86B-EF689EFECD57",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9F1A5BF6-F28D-4D99-88E1-2A31FF226461",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BE3636AC-D638-4803-AF8B-474296A75938",
+    "height": 64,
+    "width": 280,
+    "x": 20,
+    "y": 391
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Button/With icon Copy 4",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "65201C53-25F7-4C28-992F-937AC79FE48B",
+      "overrideName": "5E4E5540-8838-4689-B104-3A8FB5124F1D_stringValue",
+      "value": "4567"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3853BCDB-CE9F-48B2-94A0-C5E5159F565D",
+      "overrideName": "45256C25-E1C3-4F1A-9EF6-D591E83C70E2_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3446E366-945C-4454-8491-BBDAF006D78E",
+      "overrideName": "AF777285-415B-4894-B2F5-6E2EDAD31B28_symbolID",
+      "value": "0F0E5501-5967-4B8F-B688-99258F7D332C"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0C072DB4-E983-4625-BB35-E1BE89C717A1",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "11F22279-F002-455D-82BA-15C0B550C2C6",
+  "verticalSpacing": 0
+}

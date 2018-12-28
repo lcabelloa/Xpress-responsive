@@ -1,0 +1,124 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9647058823529412,
+    "do_objectID": "BDB1C644-D44A-4105-BA65-8AF3052AAFFB",
+    "green": 0.9490196078431372,
+    "red": 0.9450980392156862
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "05B4BC3D-A245-437E-AA4C-7639F0A3D0BD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1A9F8D36-E763-4A79-B228-042790035C4D",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E76D26EF-4821-40FE-BCED-E498EA203C81",
+    "height": 631,
+    "width": 320,
+    "x": -1187,
+    "y": 6540
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "BDDE7ADC-061A-4402-8BA0-911F6F221927",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "1F5C1A5E-F17E-4CBE-B8C6-E6026CB148B9"
+    },
+    {
+      "class": "group",
+      "id": "CFF9E553-8572-494D-8EEB-566A1E9AB2EB"
+    },
+    {
+      "class": "rectangle",
+      "id": "CEFCEF62-F693-43EE-8781-DE9B9337BA20"
+    },
+    {
+      "class": "group",
+      "id": "66BF82B0-9D29-4DE5-A6EC-859C18C64A20"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4A805466-7EDB-41E4-8CF1-32E2AC57C76C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "34DFF5CD-159F-4EFA-8B67-8C114671FCB5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9276DE48-24D3-4184-8EC0-8787826CD796"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "69F3CE05-7F84-43F2-AE46-2502BCBFB4FD"
+    }
+  ],
+  "name": "2.1 Nuevo pedido - seleccion de servicio",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Mobile",
+    "offersLandscapeVariant": 1,
+    "width": 320
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E3FF58B0-FAC9-4E29-A08F-B2623D6DB3CF",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "22902DE3-A9A2-49C2-9218-FF91CF7EB40C",
+    "guides": [
+    ]
+  }
+}
